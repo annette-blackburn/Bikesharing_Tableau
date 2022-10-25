@@ -2,8 +2,8 @@
 
 #### Purpose: To convince investors that a bike-sharing program in Des Moines, Iowa is a good investment. Citibike data from NYC in August 2019 was examined geographically, by user type. gender, bike usage duration, and peak usage times.
 
-#### Link to Tableau Dashboard/Story: 
-https://public.tableau.com/app/profile/annette.blackburn4310/viz/Module14Challenge_16662107265760/CitibikeDashboard?publish=yes
+#### Link to Tableau Story: 
+https://public.tableau.com/app/profile/annette.blackburn4310/viz/Module14Challenge_2_attempt/CitibikeStory?publish=yes
 
 #### Checkout Times for All Users (see images labeled as "Module 14 - ...")
 Citibike usage is 3,000 minutes per user at maximum.
